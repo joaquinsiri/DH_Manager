@@ -1,0 +1,9 @@
+{
+
+    "autoload":{
+        "psr-4": {
+            "DH_Manager\\":"clases"
+        }
+    }
+
+}
